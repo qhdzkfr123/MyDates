@@ -1,0 +1,17 @@
+{
+    "name": "qhdzkfr/mydates",
+    "description": "It is a Date Tools.",
+	"homepage":"https://github.com/Neroxiezi/pfinal-array",
+    "autoload": {
+        "psr-4": {
+            "MydatesTool\\mydates\\": "src/"
+        }
+    },
+	"license": "MIT",                                           
+    "keywords": [                                                   
+        "dates",
+		"mydates"
+    ],
+    "require": {
+	}
+}

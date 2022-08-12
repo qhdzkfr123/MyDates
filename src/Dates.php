@@ -3,6 +3,7 @@
 /**
  * DateTools of class
  */
+ namespace MydatesTool\mydates;
 
 class Dates{
 
