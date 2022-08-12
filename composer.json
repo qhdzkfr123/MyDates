@@ -1,7 +1,7 @@
 {
     "name": "qhdzkfr/mydates",
     "description": "It is a Date Tools.",
-	"homepage":"https://github.com/Neroxiezi/pfinal-array",
+	"homepage":"https://github.com/qhdzkfr123/MyDates.git",
     "autoload": {
         "psr-4": {
             "MydatesTool\\mydates\\": "src/"
