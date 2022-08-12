@@ -64,5 +64,19 @@ class Dates{
         }
         return $dateList;
     }
+	
+	/*
+	 * Determines whether a string is a timestamp
+	 * @param int $timestamp
+	 * @return mixed
+	 */
+	public static function is_timestamp($timestamp) {
+        $timestamp = intval($timestamp);
+        if(strtotime(date('m-d-Y H:i:s', $timestamp)) === $timestamp) {
+            return $timestamp;
+        } else {
+            return false;
+        }
+    }
 
 }
