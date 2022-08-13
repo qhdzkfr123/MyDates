@@ -2,7 +2,7 @@
 
 /**
  * DateTools of class
- * ver 1.1
+ * ver 1.2
  */
  namespace MydatesTool\mydates;
 
